@@ -6,4 +6,4 @@ on:
       - stage
     paths:
       - terraform/**
-    pull_request
+  pull_request:
